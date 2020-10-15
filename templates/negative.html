@@ -288,7 +288,7 @@
                         </div>
                         <h2 class="h1">Sorry! Page not found</h2>
                         <ol>
-                            <a>The movie name do not exists in the database.</a>
+                            <li>The movie name do not exists in the database.</li>
                         </ol>
                         <input type="hidden" value="{{ name }}" id="movie_name" oninput="checkSimilarity()" readonly/>
                         <hr>
@@ -303,7 +303,9 @@ function goBack() {
   window.history.back();
 }
 </script>
-<script>      
+<script>
+    all_titles = ["Avatar","Pirates of the Caribbean: At World's End"]
+        
         
 function checkSimilarity(){
     filtered_names = []
@@ -316,7 +318,7 @@ function checkSimilarity(){
         }
     }
     if(filtered_names.length<1){
-        document.getElementById("suggestions").innerHTML = "Please try again. Either input movie name is misspelled badly or not present in database.";
+        document.getElementById("suggestions").innerHTML = "Please try again. Either input movie name is misspelled or not present in database.";
     }else{
         document.getElementById("suggestions").innerHTML = filtered_names;  
     }

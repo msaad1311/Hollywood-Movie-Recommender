@@ -17,10 +17,10 @@ The app of can be accessed via the following link:
 
 [https://moviesrecommendersystem.herokuapp.com/](https://moviesrecommendersystem.herokuapp.com/) -> Heroku Platform
 
-["/Pictures/mainpage.png"](https://moviesrecommendersystem.herokuapp.com/)
+[<img target="_blank" src="/Pictures/mainpage.png" width=200>](https://moviesrecommendersystem.herokuapp.com/)
 
 [ec2-18-191-252-137.us-east-2.compute.amazonaws.com:8080](ec2-18-191-252-137.us-east-2.compute.amazonaws.com:8080) -> AWS Platform
-["/Pictures/mainpage_aws.png"](c2-18-191-252-137.us-east-2.compute.amazonaws.com:8080)
+[<img target="_blank" src="/Pictures/mainpage_aws.png" width=200>](c2-18-191-252-137.us-east-2.compute.amazonaws.com:8080)
 
 
 

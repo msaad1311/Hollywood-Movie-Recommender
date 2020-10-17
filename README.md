@@ -21,7 +21,7 @@ The app of can be accessed via the following link:
 
 [ec2-18-191-252-137.us-east-2.compute.amazonaws.com:8080](ec2-18-191-252-137.us-east-2.compute.amazonaws.com:8080) -> AWS Platform
 ![opte](/Pictures/mainpage_aws.png)
-[<img target="_blank" src="/Pictures/mainpage_aws.png" width=200>](c2-18-191-252-137.us-east-2.compute.amazonaws.com:8080)
+[<img target="_blank" src="https://github.com/msaad1311/Hollywood-Movie-Recommender/tree/main/Pictures/mainpage_aws.png" width=200>](c2-18-191-252-137.us-east-2.compute.amazonaws.com:8080)
 
 
 

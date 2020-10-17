@@ -21,7 +21,7 @@ The app of can be accessed via the following link:
 
 [ec2-18-191-252-137.us-east-2.compute.amazonaws.com:8080](ec2-18-191-252-137.us-east-2.compute.amazonaws.com:8080) -> AWS Platform
 
-![alt text](Pictures/mainpage.jpg)
+![Pictures/mainpage.jpg](Pictures/mainpage.jpg)
 
 
 

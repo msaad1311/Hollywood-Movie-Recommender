@@ -24,8 +24,6 @@ The app of can be accessed via the following link:
 <img target="_blank" src="/Pictures/negativepage.PNG">
 
 
-
-
 ## Overview
 The app is a Flask based web application that recommends the user movies that are similar to the movie provided by the user. This recommendation is conducted via content based filtering methodology. The application is deployed on AWS and Heroku Platform. 
 
@@ -60,4 +58,4 @@ If you find a bug, kindly raise an [issue](https://github.com/msaad1311/Hollywoo
 
 ## Acknowledgment 
 
-* [Muhammad Anas Shahid](https://github.com/Anasshahidd21) for the support in HTML files.
+* [Muhammad Anas Shahid](https://github.com/Anasshahidd21) for the support in developing HTML files.

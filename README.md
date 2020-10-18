@@ -19,9 +19,9 @@ The app of can be accessed via the following link:
 
 [ec2-18-191-252-137.us-east-2.compute.amazonaws.com:8080](ec2-18-191-252-137.us-east-2.compute.amazonaws.com:8080) -> AWS Platform
 
-[<img target="_blank" src="/Pictures/mainpage.PNG" width=200>](https://moviesrecommendersystem.herokuapp.com/)
-[<img target="_blank" src="/Pictures/positivepage.PNG" width=200>]
-[<img target="_blank" src="/Pictures/negativepage.PNG" width=200>]
+[<img target="_blank" src="/Pictures/mainpage.PNG">](https://moviesrecommendersystem.herokuapp.com/)
+<img target="_blank" src="/Pictures/positivepage.PNG">
+<img target="_blank" src="/Pictures/negativepage.PNG">
 
 
 

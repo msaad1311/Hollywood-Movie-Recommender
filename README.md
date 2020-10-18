@@ -17,15 +17,11 @@ The app of can be accessed via the following link:
 
 [https://moviesrecommendersystem.herokuapp.com/](https://moviesrecommendersystem.herokuapp.com/) -> Heroku Platform
 
-[<img target="_blank" src="/Pictures/mainpage.png" width=200>](https://moviesrecommendersystem.herokuapp.com/)
-
 [ec2-18-191-252-137.us-east-2.compute.amazonaws.com:8080](ec2-18-191-252-137.us-east-2.compute.amazonaws.com:8080) -> AWS Platform
 
-![alt text](https://github.com/msaad1311/Hollywood-Movie-Recommender/blob/main/Pictures/mainpage.png?raw=true)
-
-![opte](/Pictures/mainpage_aws.png)
-[<img src="https://github.com/msaad1311/Hollywood-Movie-Recommender/tree/main/Pictures/mainpage_aws.png" width=200>]
-
+[<img target="_blank" src="/Pictures/mainpage.PNG">](https://moviesrecommendersystem.herokuapp.com/)
+<img target="_blank" src="/Pictures/positivepage.PNG">
+<img target="_blank" src="/Pictures/negativepage.PNG">
 
 
 ## Overview
@@ -40,7 +36,7 @@ Today in the era of science and technology, recommendation system plays a vital 
 [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) 
 [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 [<img target="_blank" src="/Pictures/AWS.png" width=200>](https://aws.amazon.com) 
-[<img target="_blank" src="/Pictures/Heroku.png" width=200>](https://www.heroku.com) 
+[<img target="_blank" src="/Pictures/Heroku.jpg" width=200>](https://www.heroku.com) 
 
 ## Installation
 
@@ -62,4 +58,4 @@ If you find a bug, kindly raise an [issue](https://github.com/msaad1311/Hollywoo
 
 ## Acknowledgment 
 
-* [Muhammad Anas Shahid](https://github.com/Anasshahidd21) for the support in HTML files.
+* [Muhammad Anas Shahid](https://github.com/Anasshahidd21) for the support in developing HTML files.
